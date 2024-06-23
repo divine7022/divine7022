@@ -1,3 +1,5 @@
+![logo](https://github.com/divine7022/divine7022/blob/main/Akash.png)
+
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
